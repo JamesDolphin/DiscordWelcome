@@ -1,0 +1,10 @@
+.env
+/node_modules
+<<<<<<< HEAD
+/.vscode
+=======
+/vscode
+.env
+.launch.json
+/node_modules
+>>>>>>> 29e79b59e1d2350b4f5fdfcccb49d62eaa663741
