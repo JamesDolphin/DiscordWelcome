@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JamesDolphin/discordWelcome#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^11.6.4",
     "dotenv": "^6.2.0"
   }
 }
